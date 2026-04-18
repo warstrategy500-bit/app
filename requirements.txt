@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+requests
+pycryptodome
+colorama
+fake_useragent
+aiohttp
