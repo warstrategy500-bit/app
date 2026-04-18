@@ -4,3 +4,4 @@ pycryptodome
 colorama
 fake_useragent
 aiohttp
+telegram
